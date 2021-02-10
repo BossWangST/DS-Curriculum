@@ -1,0 +1,2 @@
+D:\University\DataStructure\qttest\x64\Debug\qttest.exe
+D:\University\DataStructure\qttest\x64\Debug\qttest.pdb

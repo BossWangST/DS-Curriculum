@@ -1,0 +1,6 @@
+Microsoft (R) COFF/PE Dumper Version 14.28.29336.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file qttest.exe
+LINK : fatal error LNK1181: 无法打开输入文件“qttest.exe”

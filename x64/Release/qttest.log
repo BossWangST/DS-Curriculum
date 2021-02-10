@@ -1,0 +1,6 @@
+﻿  qttest.cpp
+D:\University\DataStructure\qttest\qttest.cpp(10,1): warning C4273: “QAbstractButton::paintEvent”: dll 链接不一致
+D:\Software\Qt\5.12.10\msvc2017_64\include\QtWidgets\qabstractbutton.h(129,10): message : 参见“paintEvent”的前一个定义
+D:\University\DataStructure\qttest\graph.cpp(107): warning C4715: “graph<int>::getvalue”: 不是所有的控件路径都返回值
+    正在创建库 D:\University\DataStructure\qttest\x64\Release\qttest.lib 和对象 D:\University\DataStructure\qttest\x64\Release\qttest.exp
+  qttest.vcxproj -> D:\University\DataStructure\qttest\x64\Release\qttest.exe
